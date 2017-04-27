@@ -1,0 +1,3 @@
+/home/zhang/mixed_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zhang/mixed_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zhang/mixed_code/cmake-build-debug/CMakeFiles/mixed_code.dir
